@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aditya1004-design
+- 👋 Hi, I’m @Aditya1004
 - 👀 I’m interested in Artificial Intelligence...
 - 🌱 I’m currently learning .B.Tech Artificial Intelligence And Data Science
 - 💞️ I’m looking to collaborate on AI,Data Mining,Data Analysis
